@@ -8,8 +8,10 @@ export const Title = styled.div`
 export const Flex = styled.div`
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: baseline;
   padding: 0 2rem;
+  background-color: #f3f3f3;
+  height: 100vh;
 `;
 
 export const UserInput = styled.input`
