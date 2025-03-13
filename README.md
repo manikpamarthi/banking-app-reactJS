@@ -1,3 +1,16 @@
+# Features
+
+User authentication (JWT-based)
+
+Room-based group chat
+
+One-to-one direct messaging
+
+WebSockets using Socket.io
+
+UI built with React and Bootstrap
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
